@@ -1,0 +1,24 @@
+{
+  "name": "oz-defender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyberscan/Oz-Defender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyberscan/Oz-Defender/issues"
+  },
+  "homepage": "https://github.com/cyberscan/Oz-Defender#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.0",
+    "defender-relay-client": "^1.12.1",
+    "ethers": "^5.5.1"
+  }
+}
